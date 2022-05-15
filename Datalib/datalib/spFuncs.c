@@ -1,6 +1,6 @@
 // spFuncs file
 // mityawastaken
-// 5/5/22
+// 5/5/22 - 5/15/22
 // functions for statistics and probability
 
 #include <stdio.h>

@@ -1,0 +1,1 @@
+gcc ./datalib/spFuncs.c -o ./binaries/spfuncs; binaries/spfuncs

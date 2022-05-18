@@ -1,2 +1,2 @@
 # srap datalib
-automate prob&stats
+automate your prob&stats with this prob&stats library

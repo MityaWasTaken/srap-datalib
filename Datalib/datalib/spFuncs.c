@@ -80,8 +80,16 @@ int Cmode(int arr[], int n) {
 }
 
 // calculating theoretical probability
-float P(double subject, double possA) {
+float Ptp(double subject, double possA) {
     double dec = subject/possA;
     float result = dec * 100;
     return result;
+}
+
+// calculating relative frequency 
+float Prf(int favourable, int total, int frequency) {
+    float almst = favourable*frequency;
+    float ret = almst/total;
+    return ret;
+
 }

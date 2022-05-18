@@ -1,2 +1,2 @@
-# srap datalib (statistical representation and probability data library)
-srap is a small C library that uses basic concepts from statistics and probability to accurately represent data using statistics and probability...
+# srap datalib
+automate prob&stats

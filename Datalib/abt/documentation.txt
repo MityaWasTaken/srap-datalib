@@ -8,5 +8,7 @@ Cmedian             | claculates the median                                     
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Cmode               | this function calculates the mode                               params are the ARRAY, and the LENGTH
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-P()                 | P() function calculates the theoretical probability             params are the REOCCURENCES OF FAV OUTCOMES and NUMBER OF TOTAL OUTCOMES
+Ptp()                 | Ptp() function calculates the theoretical probability             params are the REOCCURENCES OF FAV OUTCOMES and NUMBER OF TOTAL OUTCOMES
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Prf()                 | Prf() function calculates relative frequency                      params are the FAVOURABLE OUTCOMES, TOTAL OUTCOMES, and FREQUENCY
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
